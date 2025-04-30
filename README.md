@@ -1,2 +1,2 @@
 # smbanerjee.github.io
-personal website
+personal website: https://smbanerjee.github.io/
